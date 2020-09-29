@@ -78,10 +78,10 @@ body {
 .img-text-wrapper {
     position: absolute;
     top: 0;
+    left: 90px; /*not sure why this had to be hammered*/
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     height: 100%;
     text-align: center;
     padding-left: 100px;
@@ -106,7 +106,7 @@ body {
 }
 
 .img-darken {
-    transition: 1s;
+    transition: 0.5s;
     filter: brightness(10%);
 }
 
