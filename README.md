@@ -1,5 +1,7 @@
 # Sample Portfolio-style Website
 
+[Website](https://showmethegita.github.io/portfolio-sample/)
+
 Portfolio-like website created to practice **HTML structuring, CSS Grid and Flexbox.**
 
 ### Why?
